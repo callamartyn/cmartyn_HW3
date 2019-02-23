@@ -1,4 +1,4 @@
-## HW2 Skeleton
+## HW3 Skeleton
 
 [![Build
 Status](https://travis-ci.org/callamartyn/cmartyn_HW3)](https://travis-ci.org/callamartyn/cmartyn_HW3)
